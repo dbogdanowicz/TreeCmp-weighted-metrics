@@ -1,0 +1,2 @@
+1)
+java -jar TreeCmp.jar -m -d rc tt mbin ns co al mc mp mcs mps rcw rc085w gr mcw mcsw -i simple-with-weights1.trees -o simple-with-weights1.trees.m.out
